@@ -1,4 +1,4 @@
-# Luci Terms of Service
+# Terms of Service
 
 Welcome to Luci By using our bot, you agree to comply with and be bound by the following terms and conditions of use. Please review these terms carefully. If you do not agree with these terms, you should not use our bot.
 
